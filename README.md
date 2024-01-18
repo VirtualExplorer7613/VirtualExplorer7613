@@ -1,7 +1,10 @@
 ### Hi there 👋
-
 <!--
 **VirtualExplorer7613/VirtualExplorer7613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--
+![VirtualExplorer7613's GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtualExplorer7613&show_icons=true&)
+-->
 
 Here are some ideas to get you started:
 
